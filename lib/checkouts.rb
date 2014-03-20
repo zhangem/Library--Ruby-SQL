@@ -1,0 +1,2 @@
+class Checkouts
+end
